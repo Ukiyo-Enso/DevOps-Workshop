@@ -1,0 +1,34 @@
+pVi shortcuts
+'vi' is an editor
+$ vi <filename> — Open or edit a file.
+i — Switch to Insert mode.
+Esc — Switch to Command mode.
+:w — Save and continue editing.
+:wq or ZZ — Save and quit/exit vi.
+:q! — Quit vi and do not save changes.
+yy — Yank (copy) a line of text.
+p — Paste a line of yanked text below the current line
+
+gcc filename.c -o filename - like compile
+./filename - to run
+cat filename - to see the file content
+pwd - the full path name of your current directory (from the root directory).
+mkdir filename - create a new directory wherever you want in your system
+sudo -  allows you to run programs with the security privileges of another user 
+sudo su # - to change from normal user to administrator user
+ls - to see the folders or files
+touch <filename.type> - can create a file
+rm <filename> - to remove a file/folder
+rmdir - to remove a directory
+mv <current file name> <new file name> - used to rename a file/move a file to another document
+echo - is used to print whatever we want
+df - to find the metadata/details of the file
+history - for seeing what commands we used
+cd -/ cd -- -> for going back a directory / for going to home directory
+
+drwxr - read write execute directory
+
+
+oracle virtual box
+visual c++
+SSH Client
